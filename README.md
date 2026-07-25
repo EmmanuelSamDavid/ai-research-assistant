@@ -1,3 +1,10 @@
+A local AI research assistant using Retrieval-Augmented Generation (RAG) — upload PDFs and ask questions grounded in their content, with summarization, citation generation, paper comparison, and literature review, powered by a fully local LLM (Ollama + Mistral).
+
+> Upload research papers as PDFs and ask questions grounded in their actual
+> content — no hallucinated answers, no cloud API required. Runs entirely
+> locally via Ollama. Also generates summaries, citations, paper comparisons,
+> and literature reviews from the same retrieval pipeline.
+
 # AI Research Assistant (RAG) — MVP
 
 A minimal but real, working version of the project: upload PDFs, ask questions,
